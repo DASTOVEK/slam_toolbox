@@ -1,0 +1,13 @@
+name: slam_toolbox
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/fe67dc0d-7726-4300-92f9-e9fcb4699010
+description: Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
